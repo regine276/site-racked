@@ -47,8 +47,7 @@ const Hero = () => {
         </p>
       </div>
       */}
-  
-     {/* Bouton Play/Pause "Magnetic Design" */}
+  {/* Bouton Play/Pause "Magnetic Design" */}
       <div className="absolute bottom-10 right-10 z-30">
         <button
           onClick={togglePlay}
@@ -90,6 +89,7 @@ const Hero = () => {
           {!isPlaying && (
             <div className="absolute inset-0 rounded-full bg-white/20 animate-ping" />
           )}
+     
         </button>
       </div>
 
