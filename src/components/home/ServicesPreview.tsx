@@ -66,7 +66,7 @@ const services = [
     icon: CalendarIcon,
   },
   {
-    title: "Communications & Public Relations",
+    title: "Multimedia Production",
     description: "",
     icon: EnvelopeIcon, // Ou une icône appropriée pour les communications
   },
