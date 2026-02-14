@@ -32,14 +32,7 @@ const values = [
 ];
 
 const expertise = [
-  "Business Development",
-  "Government Relations & Public Affairs",
-  "Event Planning & Management",
-  "Policy Development",
-  "Brand Management",
-  "Communications & PR",
-  "Community Engagement",
-  "Negotiation Strategy",
+
 ];
 
 export default function About() {
