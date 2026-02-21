@@ -168,7 +168,7 @@ export default function About() {
         {/* Espace réservé pour votre description */}
        <h2 className="heading-section text-navy-dark mb-8">Raoul Keddy</h2>
             <div className="text-left space-y-6 text-muted-navy-dark leading-relaxed">
-              <p className="text-lg">
+              <p >
                 Raoul Keddy is a dynamic entrepreneur, public affairs specialist,
                 and international business and affairs strategist. He is the
                 Founder of Raked Intl LLC, where he has successfully developed

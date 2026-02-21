@@ -35,7 +35,7 @@ export function Footer() {
 
             {/* Description */}
             <p className="text-xl md:text-2xl text-white mb-10 md:mb-12 leading-relaxed">
-              Let discus how we can help you achieve your goals in local and international markets.
+              Let discuss how we can help you achieve your goals in local and international markets.
             </p>
 
             {/* Bouton */}
